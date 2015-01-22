@@ -1,0 +1,59 @@
+table, tr, td {
+	border: 2px solid ;
+	
+	
+
+}
+tr,td {
+	
+	padding: 1%;
+	text-align: center;
+}
+
+
+table#tb  {
+	width: 100%;
+	background-color: green;
+}
+
+body {
+	background-color: #C0C0C0;
+	}
+p 	{color: red;
+	font-size: 200%;
+	border: 1px solid green;
+	padding:40px;
+	margin: 30px;
+	}
+
+h3 > strong {
+  color: green;
+}
+p>b {
+	color: pink
+}
+a:link{
+	
+	color:black;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color:green;
+}
+
+caption{
+	font-size: 200%;
+}
+
+.stael {
+	color: red;
+	background-color: black;
+	padding: 5%;
+	margin:5%;
+
+}
+fieldset{
+	width: 100px;
+}
